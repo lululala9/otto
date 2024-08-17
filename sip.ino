@@ -11,7 +11,7 @@ Otto Otto;
 #define Buzzer 3 //buzzer pin
 
 const char* SSID ="daffa4g";
-const char* password="bitagure123";
+const char* password="";
 unsigned int localUdpPort=2222;
 char bufferPaket[4];
 
